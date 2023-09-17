@@ -33,7 +33,7 @@ class ViewController: UIViewController {
         else
         {
             self.view.backgroundColor = UIColor.blue
-            firstLabel.text = "This is \(thirdString)"
+            self.firstLabel.text = "This is \(thirdString)"
         }
         
       
